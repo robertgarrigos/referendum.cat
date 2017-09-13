@@ -20,13 +20,13 @@
 		<loc>http://referendum.cat/en/</loc>
 	</url>
 	<url>
-		<loc>http://referendum.cat/normativa-electoral/</loc>
+		<loc>http://referendum.cat/normativa-electoral.html</loc>
 	</url>
 	<url>
-		<loc>http://referendum.cat/sindicatures-electorals/</loc>
+		<loc>http://referendum.cat/sindicatures-electorals.html</loc>
 	</url>
 	<url>
-		<loc>http://referendum.cat/com-es-vota/</loc>
+		<loc>http://referendum.cat/com-es-vota.html</loc>
 	</url>
 	<url>
 		<loc>http://referendum.cat/calendari-electoral/</loc>
@@ -53,7 +53,7 @@
 		<loc>http://referendum.cat/observadors-electorals-internacionals/</loc>
 	</url>
 	<url>
-		<loc>http://referendum.cat/es/normativa-electoral/</loc>
+		<loc>http://referendum.cat/es/normativa-electoral.html</loc>
 	</url>
 	<url>
 		<loc>http://referendum.cat/es/sindicaturas-electorales/</loc>
