@@ -1,5 +1,4 @@
 # Ignore this file so it can be changed
 
 referendum.cat.*
-.ht*
 .lando.yml
