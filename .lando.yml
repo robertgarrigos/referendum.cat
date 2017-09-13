@@ -1,0 +1,8 @@
+# LEMP recipe example
+name: referendum
+
+# Start with the default LEMP recipe
+recipe: lemp
+
+config:
+  webroot: www
