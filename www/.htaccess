@@ -1,0 +1,46 @@
+# invoke rewrite engine
+RewriteEngine On
+RewriteBase /
+
+# Redirect to www
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+
+#Redirect 400,401,403,404,500 to main website
+ErrorDocument 400 http://referendum.cat
+ErrorDocument 401 http://referendum.cat
+ErrorDocument 403 http://referendum.cat
+ErrorDocument 404 http://referendum.cat
+ErrorDocument 500 http://referendum.cat
+
+# redirect all extension to html
+RewriteCond %{QUERY_STRING} ^$
+RewriteRule ^(.*)\.shtml$ $1.html [nc]
+RewriteCond %{QUERY_STRING} ^$
+RewriteRule ^(.*)\.phtml$ $1.html [nc]
+RewriteCond %{QUERY_STRING} ^$
+RewriteRule ^(.*)\.htm$ $1.html [nc]
+RewriteCond %{QUERY_STRING} ^$
+RewriteRule ^(.*)\.php$ $1.html [nc]
+RewriteCond %{QUERY_STRING} ^$
+RewriteRule ^(.*)\.aspx$ $1.html [nc]
+RewriteCond %{QUERY_STRING} ^$
+RewriteRule ^(.*)\.asp$ $1.html [nc]
+RewriteCond %{QUERY_STRING} ^$
+RewriteRule ^(.*)\.jsp$ $1.html [nc]
+
+# Add a trailing slash (/) to a URL, if the URL did not have a trailing slash before
+RewriteRule ^([^.]*[^/])$ /$1/ [L,R=301]
+
+# add trailing slash if missing
+rewriteRule ^(([a-z0-9\-]+/)*[a-z0-9\-]+)$ $1/ [NC,R=301,L]
+RewriteRule ^wp-admin/ - [L]
+RewriteRule ^([^/]+)/$ $1.html
+RewriteRule ^([^/]+)/([^/]+)/$ $1/$2.html
+RewriteRule ^([^/]+)/([^/]+)/([^/]+)/$ $1/$2/$3.html
+RewriteRule ^([^/]+)/([^/]+)/([^/]+)/([^/]+)/$ $1/$2/$3/$4.html
+RewriteRule ^([^/]+)/([^/]+)/([^/]+)/([^/]+)/([^/]+)/$ $1/$2/$3/$4/$5.html
+RewriteRule ^index.html$ / [L,R=301]
+RewriteRule ^en\/referendum\-calendar.html$ / [L,R=301]
+RewriteRule ^en\/referendum\-calendar.html$ / [L,R=301]
+RewriteRule ^en\/electoral\-commission\-support\-staff.html$ / [L,R=301]
