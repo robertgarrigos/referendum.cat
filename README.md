@@ -18,7 +18,7 @@ Lllistat de miralls:
 * http://referendum.pau.fm/
 * http://www.referendumcat.eu/
 
-Altres repositoris del web del referendum:
+Altres repositoris del web del referendum a github:
 
  * https://github.com/GrenderG/referendum\_cat\_mirror
  * https://github.com/ref1oct/ref1oct.github.io
