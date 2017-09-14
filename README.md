@@ -20,5 +20,5 @@ Lllistat de miralls:
 
 Altres repositoris del web del referendum a github:
 
- * https://github.com/GrenderG/referendum\_cat\_mirror
+ * https://github.com/GrenderG/referendum_cat_mirror
  * https://github.com/ref1oct/ref1oct.github.io
