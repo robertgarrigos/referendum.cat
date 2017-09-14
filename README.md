@@ -20,7 +20,9 @@ Lllistat de miralls:
 * http://referendum.pau.fm/
 * http://www.referendumcat.eu/
 * http://nigeon.github.io/referendum.cat/ 
+* http://www.referendum.party/
 * http://ref1oct.ml/
+
 
 Altres repositoris del web del referendum a github:
 
