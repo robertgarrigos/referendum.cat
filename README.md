@@ -2,7 +2,7 @@
 
 Podeu fer-ne un Fork, i configurar Github Pages que apunti a la carpeta "docs" de la "Master" i ja estarà online un nou mirall com a https://"ELVOSTREUSUARI".github.io/referendum.cat/
 
-Per clonar referendum.cat al vostre servidor baixeu-vos el codi i apunteu el web a www/index.html
+Per clonar referendum.cat al vostre servidor baixeu-vos el codi i apunteu el web a docs/index.html
 
 Podeu veure el codi en funcionament a https://robertgarrigos.github.io/referendum.cat/
 
