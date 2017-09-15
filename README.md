@@ -22,6 +22,10 @@ Lllistat de miralls:
 * http://nigeon.github.io/referendum.cat/ 
 * http://www.referendum.party/
 * http://ref1oct.ml/
+* http://ref1oct.net
+* http://ref1oct.org
+* http://wuyingren.github.io/referendum.cat
+* https://holadictadura.github.io/referendum_catalunya/
 
 
 Altres repositoris del web del referendum a github:
