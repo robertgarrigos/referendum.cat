@@ -1,5 +1,4 @@
-# referendum.cat
-Mirall del web oficial referendum.cat
+# Mirall del web oficial referendum.cat
 
 Podeu fer-ne un Fork, i configurar Github Pages que apunti a la carpeta "docs" de la "Master" i ja estarà online un nou mirall com a https://"ELVOSTREUSUARI".github.io/referendum.cat/
 
@@ -9,7 +8,7 @@ Podeu veure el codi en funcionament a https://robertgarrigos.github.io/referendu
 
 Si crees un mirall i el vols llistar aquí, envia un correu a info a referendum.barcelona
 
-Lllistat de miralls:
+Llistat de miralls:
 
 * https://cat.referendum.barcelona/
 * http://referendum.enricpineda.cat/
