@@ -30,6 +30,11 @@ Llistat de miralls:
 * http://referendum.one
 * http://referendumcatalunya.eu/
 * http://www.referendum.love/
+* http://referendum.juanma.xxx
+* http://referendum.juanma.xyz
+* http://referendum.bulbasaur.xyz
+* http://referendum.charmander.xyz
+* http://referendum.squirtle.xyz
 
 
 Altres repositoris del web del referendum a github:
