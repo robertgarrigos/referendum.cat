@@ -35,6 +35,7 @@ Llistat de miralls:
 * http://referendum.bulbasaur.xyz
 * http://referendum.charmander.xyz
 * http://referendum.squirtle.xyz
+* http://87.216.177.4:81/referendum/
 
 
 Altres repositoris del web del referendum a github:
