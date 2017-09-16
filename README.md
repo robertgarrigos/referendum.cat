@@ -27,6 +27,9 @@ Llistat de miralls:
 * https://holadictadura.github.io/referendum_catalunya/
 * http://referendumcat.cat/
 * https://aniol.github.io/referendum.cat/
+* http://referendum.one
+* http://referendumcatalunya.eu/
+* http://www.referendum.love/
 
 
 Altres repositoris del web del referendum a github:
