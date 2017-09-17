@@ -1,15 +1,16 @@
 # Mirall del web oficial referendum.cat
 
-Podeu fer-ne un Fork, i configurar Github Pages que apunti a la carpeta "docs" de la "Master" i ja estarà online un nou mirall com a https://"ELVOSTREUSUARI".github.io/referendum.cat/
+Hem decidit unir forces amb el repositori <https://github.com/GrenderG/referendum_cat_mirror> i treballar en un de sol.
 
-Per clonar referendum.cat al vostre servidor baixeu-vos el codi i apunteu el web a docs/index.html
+Els usuaris que heu fet un fork d'aquest us recomano que canvieu l'upstream del vostre repo y en feu una nova sincronització.
 
-Podeu veure el codi en funcionament a https://robertgarrigos.github.io/referendum.cat/
 
-Si crees un mirall i el vols llistar aquí, envia un correu a info a referendum.barcelona
 
-Llistat de miralls:
+També us trobareu que el repo <https://github.com/GrenderG/referendum_cat_mirror> no té un directori /docs, el que farà que la vostra pàgina a github pages, si l'heu configurada, deixi de funcionar. Només cal aneu a la configuració del vostre repo i canviar la configuració de la pàgina perquè usi *master branch* enlloc de *master branch /docs folder*.
 
+<<<<<<< HEAD
+Al web <https://jodecideixo.cat> hi seguirem llistant els miralls que vagin apareixen i que ens n'informeu.
+=======
 * https://cat.referendum.barcelona/
 * http://referendum.enricpineda.cat/
 * http://www.referendum.ninja/
@@ -37,9 +38,6 @@ Llistat de miralls:
 * http://referendum.squirtle.xyz
 * http://87.216.177.4:81/referendum/
 * http://www.referendum.net
+>>>>>>> 8e03615c2b5a6935c81c0850031f20930ff9c935
 
-
-Altres repositoris del web del referendum a github:
-
- * https://github.com/GrenderG/referendum_cat_mirror
- * https://github.com/ref1oct/ref1oct.github.io
+Salut i referèndum!
