@@ -2,7 +2,7 @@
 
 Hem decidit unir forces amb el repositori <https://github.com/GrenderG/referendum_cat_mirror> i treballar en un de sol.
 
-Els usuaris que heu fet un fork d'aquest us recomano que canvieu l'upstream del vostre repositori y en feu una nova sincronitzacióamb el nou repositori.
+Els usuaris que heu fet un fork d'aquest us recomano que canvieu l'upstream del vostre repositori y en feu una nova sincronització amb el nou repositori.
 
 
 
